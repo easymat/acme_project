@@ -8,7 +8,7 @@ from .models import Birthday
 from .utils import calculate_birthday_countdown
 
 
-POST_PER_PAGE = 10
+POST_PER_PAGE = 5
 
 
 class BirthdayListView(ListView):
